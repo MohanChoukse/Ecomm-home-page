@@ -6,7 +6,7 @@ A clean and simple mini eCommerce UI built with **HTML** and **CSS** – perfect
 
 ---
 
-## 📸 Preview
+## 📸 Preview SS
 
 
 ![image](https://github.com/user-attachments/assets/52bcf562-1b8f-4181-a91f-f31aafdcf4b2)
